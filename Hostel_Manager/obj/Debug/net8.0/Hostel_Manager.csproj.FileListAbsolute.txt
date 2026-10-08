@@ -1,0 +1,14 @@
+C:\Users\Majer.Marton\source\repos\Hostel_Manager\Hostel_Manager\bin\Debug\net8.0\Hostel_Manager.exe
+C:\Users\Majer.Marton\source\repos\Hostel_Manager\Hostel_Manager\bin\Debug\net8.0\Hostel_Manager.deps.json
+C:\Users\Majer.Marton\source\repos\Hostel_Manager\Hostel_Manager\bin\Debug\net8.0\Hostel_Manager.runtimeconfig.json
+C:\Users\Majer.Marton\source\repos\Hostel_Manager\Hostel_Manager\bin\Debug\net8.0\Hostel_Manager.dll
+C:\Users\Majer.Marton\source\repos\Hostel_Manager\Hostel_Manager\bin\Debug\net8.0\Hostel_Manager.pdb
+C:\Users\Majer.Marton\source\repos\Hostel_Manager\Hostel_Manager\obj\Debug\net8.0\Hostel_Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Majer.Marton\source\repos\Hostel_Manager\Hostel_Manager\obj\Debug\net8.0\Hostel_Manager.AssemblyInfoInputs.cache
+C:\Users\Majer.Marton\source\repos\Hostel_Manager\Hostel_Manager\obj\Debug\net8.0\Hostel_Manager.AssemblyInfo.cs
+C:\Users\Majer.Marton\source\repos\Hostel_Manager\Hostel_Manager\obj\Debug\net8.0\Hostel_Manager.csproj.CoreCompileInputs.cache
+C:\Users\Majer.Marton\source\repos\Hostel_Manager\Hostel_Manager\obj\Debug\net8.0\Hostel_Manager.dll
+C:\Users\Majer.Marton\source\repos\Hostel_Manager\Hostel_Manager\obj\Debug\net8.0\refint\Hostel_Manager.dll
+C:\Users\Majer.Marton\source\repos\Hostel_Manager\Hostel_Manager\obj\Debug\net8.0\Hostel_Manager.pdb
+C:\Users\Majer.Marton\source\repos\Hostel_Manager\Hostel_Manager\obj\Debug\net8.0\Hostel_Manager.genruntimeconfig.cache
+C:\Users\Majer.Marton\source\repos\Hostel_Manager\Hostel_Manager\obj\Debug\net8.0\ref\Hostel_Manager.dll
